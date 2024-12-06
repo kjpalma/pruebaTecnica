@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\clientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\clientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\crud_mvc_ef_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\crud_mvc_ef_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|c:\\users\\usuario\\source\\repos\\crud_mvc_ef_core\\crud_mvc_ef_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B32C33B-5A29-4371-9BE6-3DFE3920C27D}|CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj|solutionrelative:crud_mvc_ef_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:29:13.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\appsettings.json",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T00:29:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T23:15:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T22:43:32.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Controllers\\Test.cs",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Controllers\\Test.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Controllers\\Test.cs",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Controllers\\Test.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAwwA8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:02:10.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T22:37:05.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientApi.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\ClientApi.cs",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\ClientApi.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\ClientApi.cs",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\ClientApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:22:32.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T23:22:30.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Program.cs",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:23:58.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EFCoreDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Models\\EFCoreDBContext.cs",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Models\\EFCoreDBContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Models\\EFCoreDBContext.cs",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Models\\EFCoreDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:30:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUD_MVC_EF_CORE.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T16:22:18.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Models\\Product.cs",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:16:35.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T22:57:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_MVC_EF_CORE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CRUD_MVC_EF_CORE\\CRUD_MVC_EF_CORE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD_MVC_EF_CORE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T22:33:49.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

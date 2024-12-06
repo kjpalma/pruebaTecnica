@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\usuario\\source\\repos\\web_api_core\\web_api_core\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\usuario\\source\\repos\\web_api_core\\web_api_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\usuario\\source\\repos\\web_api_core\\web_api_core\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\usuario\\source\\repos\\web_api_core\\web_api_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\usuario\\source\\repos\\web_api_core\\web_api_core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E26E69-2A8D-47C1-8889-A2885D4000F5}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\APIDbContext.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\APIDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\APIDbContext.cs",
+              "RelativeToolTip": "WEB_API_CORE\\APIDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:29:33.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:30:07.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:38:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Program.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:23:49.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Product.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Product.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WEB_API_CORE\\WEB_API_CORE\\Product.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:11:15.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
